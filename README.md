@@ -43,7 +43,7 @@ Este projeto é uma **apresentação interativa** pensada para:
 
 A apresentação pode ser acessada diretamente pelo navegador por meio do **GitHub Pages**:
 
-👉 **[Acessar apresentação interativa](https://professora-chs.github.io/sobremim/)**
+👉 **[Acessar apresentação interativa](https://professora-chs.github.io/quemsoueu/)**
 
 ---
 
